@@ -1,4 +1,4 @@
-# HomeWork_lesson1
+# HomeWork_lesson1 author Тигран Даниелян
 name=input("Привет! Как тебя зовут?")
 age=int(input("Сколько тебе лет"))
 print("Рад знакомству!",name)
